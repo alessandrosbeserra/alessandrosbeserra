@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="left">👋 Olá! Eu sou o Alessandro Beserra</h1>
 
-<!--
-**alessandrosbeserra/alessandrosbeserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  📊 Analista de Dados em formação<br>
+  👨‍💻Apaixonado por dados, decisões e transformação digital<br>
+  🎯 Foco em SQL, Python, Excel e ferramentas de BI<br>
+  🚀 Em transição de carreira e construindo projetos reais com propósito
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologias que utilizo
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Sobre mim
+
+- 🎓 Em transição de carreira do Direito para a Análise de Dados
+- 👨‍👩‍👧 Família é meu alicerce e minha motivação
+- 📚 Estou sempre aprendendo, buscando alinhar propósito com tecnologia
+- 💡 Meu foco é transformar dados em decisões com clareza e responsabilidade
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlessandroBeserra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+</div>
+
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrobeserradeavelar)
+[![Gmail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+
+---
+
+<p align="center">💡 "Transformar vidas começa com decisões bem informadas. Os dados mostram o caminho."</p>
