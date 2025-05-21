@@ -33,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlessandroBeserra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlessandrosBeserra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 </div>
 
 
