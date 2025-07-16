@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá! Eu sou o Alessandro Beserra</h1>
 
 <p align="left">
-  📊 Analista de Dados em formação<br>
+  📊 Analista de Dados<br>
   👨‍💻Apaixonado por dados, decisões e transformação digital<br>
   🎯 Foco em SQL, Powe BI, Python, Excel e ferramentas de BI<br>
   🚀 Em transição de carreira e construindo projetos reais com propósito
