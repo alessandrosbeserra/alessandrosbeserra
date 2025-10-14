@@ -15,4 +15,8 @@ Sou brasiliense, criado no coração do Brasil, uma cidade arborizada e com céu
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alessandrosbeserra&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alessandrosbeserra&repo=Projetos-Power-BI.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrosbeserra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
