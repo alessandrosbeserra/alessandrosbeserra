@@ -1,7 +1,7 @@
 ### ✨ Olá, seja muito bem-vindo! 👋
 
 
-###### Sobre o Alessandro
+##### Sobre o Alessandro
 Sou brasiliense, criado no coração do Brasil, uma cidade arborizada e com céu único e cheia de contrastes, que me ensinou desde cedo a valorizar planejamento, inovação e encontros culturais.
 
  Comecei minha jornada acadêmica no Direito, área que me deu uma base sólida em análise crítica, argumentação e raciocínio lógico. Logo depois, tive a oportunidade transformadora de morar em Portugal, onde não só ampliei meu olhar sobre novas culturas, como também descobri minha verdadeira paixão: a Análise de Dados.
